@@ -9,11 +9,11 @@ El código el código para generar los escenarios de muestreo que se plantean en
 
 
 
-####MAHSDU
+####[MAHSDU](https://rpubs.com/jcms2665/MAHSDU)
 ![](https://cloud.githubusercontent.com/assets/13545121/21360978/bde366ce-c6a7-11e6-8f18-70b626642f86.jpg)
 
 
-####BootstrapS
+####[BootstrapS](https://jcms2665.shinyapps.io/BootstrapS/)
 ![](https://cloud.githubusercontent.com/assets/13545121/21360988/c9b59832-c6a7-11e6-85cb-3b0643ed6c62.jpg)
 
 
