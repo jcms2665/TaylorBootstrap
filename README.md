@@ -1,5 +1,10 @@
-# Una aproximación metodológica al uso de datos de encuestas en hogares
-### Por Julio César Martínez Sánchez
+# Una aproximación metodológica al uso de datos de encuestas en hogares / A Methodological Approach to Household-Surveys Data Usage
+
+##### Julio César Martínez Sánchez
+##### jcms2665@gmail.com
 
 
-En la carpeteta **R**  se encuentra el código del artículo para simular los cuatro escenarios de muestreo y la simulación para el método Bootstrap.
+El código el código para generar los escenarios de muestreo que se plantean en en artículo se encuentra disponible en: [MAHSDU](https://rpubs.com/jcms2665/MAHSDU). Además, se puede correr la simulación para el cálculo de la media usando el método Bootstrap en: [BootstrapS](https://jcms2665.shinyapps.io/BootstrapS/)
+
+
+
